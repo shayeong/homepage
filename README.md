@@ -95,3 +95,4 @@ console.log("Hello World!");
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
+      ![img_chania](https://github.com/shayeong/homepage/assets/103100102/330987ef-d35f-4e6b-b3fd-0d081c64d58a)
