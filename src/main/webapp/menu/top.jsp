@@ -21,6 +21,7 @@ String root = request.getContextPath();
 </head>
 <body>
 	<!--상단메뉴-->
+	<div>
 	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 		<div class="container">
 			<a href="/index.jsp" class="navbar-brand">
@@ -49,15 +50,26 @@ String root = request.getContextPath();
 							<a class="dropdown-item" href="/notice/list.jsp">공지사항 목록</a> <a
 								class="dropdown-item" href="/notice/createForm.jsp">공지사항 생성</a>
 						</div></li>
-
-					<li class="nav-item"><a class="nav-link"
-						href="/poll/poll.jsp#section1">투표</a></li>
-
-					<li class="nav-item"><a class="nav-link" href="#">webgame</a>
-					</li>
+	
+					<li class="nav-item dropdown" data-bs-theme="light"><a
+						class="nav-link dropdown-toggle" data-bs-toggle="dropdown"
+						href="#" id="themes" aria-expanded="false">투표</a>
+					<div class="dropdown-menu" aria-labelledby="themes">
+							<a class="dropdown-item" href="/poll/poll.jsp#section1">투표 목록</a> 
+							<a class="dropdown-item" href="/poll/poll.jsp#section3">투표 생성</a> 
+						</div></li>
+										
+					<li class="nav-item dropdown" data-bs-theme="light"><a
+						class="nav-link dropdown-toggle" data-bs-toggle="dropdown"
+						href="#" id="themes" aria-expanded="false">웹 게임</a>
+					<div class="dropdown-menu" aria-labelledby="themes">
+							<a class="dropdown-item" href="/webgame/list.jsp">웹게임 목록</a> 
+							<a class="dropdown-item" href="/webgame/mole.jsp">두더지 잡기</a> 
+						</div></li>
 				</ul>
 			</div>
 		</div>
 	</nav>
+	</div>
 </body>
 </html>
