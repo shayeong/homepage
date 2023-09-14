@@ -18,3 +18,5 @@
 ![투표-2](https://github.com/shayeong/homepage/assets/103100102/4c9e8d78-1f50-485d-b1e9-2cfacb665402)
 
 ## 웹 게임
+![웹 게임 목록](https://github.com/shayeong/homepage/assets/103100102/5dfdc577-510a-433a-90e3-869e483b469e)
+![웹 게임-두더지 잡기](https://github.com/shayeong/homepage/assets/103100102/1978181d-daae-40e3-b595-395cdc4538af)
