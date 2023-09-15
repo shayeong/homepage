@@ -18,7 +18,10 @@
 ## 공지사항
 
 ![공지사항 목록](https://github.com/shayeong/homepage/assets/103100102/0e64fa69-57aa-4367-a9ff-293582f44993)
-![공지사항 생성](https://github.com/shayeong/homepage/assets/103100102/e1f40104-f042-4841-9058-466f956c4f2d)
+![image](https://github.com/shayeong/homepage/assets/103100102/8a539511-c502-448b-91f6-6b0baa57a1e2)
+![image](https://github.com/shayeong/homepage/assets/103100102/a4cc046b-bfa9-472e-9d8f-3d366d6a5053)
+### 새로 등록하게 되면 new라고 표시한다.
+
 
 ## 투표
 
