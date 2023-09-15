@@ -3,7 +3,7 @@
 ![메인화면](https://github.com/shayeong/homepage/assets/103100102/f9a2c8b1-1a00-403d-b892-3989cb5a56e9)
 ![image](https://github.com/shayeong/homepage/assets/103100102/2f329fb2-54b2-4988-b127-12694899c4a0)
 ### 메인화면으로 창의 크기를 줄이게 되면 네이베이션 바의 형태가 변화한다.
-###
+<br/>
 
 # - 게시판
 
@@ -15,7 +15,7 @@
 ![image](https://github.com/shayeong/homepage/assets/103100102/fee8b7d7-3c52-45d5-a475-e480d8805a4a)
 ![image](https://github.com/shayeong/homepage/assets/103100102/bdefa9df-3499-4abe-bb97-00d90596cf9c)
 ### 답변에 대해서 답변을 달 수 있다.
-###
+<br/>
 
 # - 공지사항
 
@@ -23,7 +23,7 @@
 ![image](https://github.com/shayeong/homepage/assets/103100102/8a539511-c502-448b-91f6-6b0baa57a1e2)
 ![image](https://github.com/shayeong/homepage/assets/103100102/a4cc046b-bfa9-472e-9d8f-3d366d6a5053)
 ### 새로 등록하게 되면 new라고 표시한다.
-###
+<br/>
 
 # - 투표
 
@@ -35,7 +35,7 @@
 ### 투표 기간이 지나면 투표 버튼에 "투표 기간 종료!"라는 메시지가 뜨게 된다.
 ![image](https://github.com/shayeong/homepage/assets/103100102/3293d17c-3d8b-45d4-b3d7-4589539558c2)
 ### 결과 버튼을 누르면 총 투표자 수를 막대 그래프 형태로 보여주게 된다.
-###
+<br/>
 
 ## -웹 게임
 
