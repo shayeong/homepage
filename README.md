@@ -1,6 +1,8 @@
 ## 메인 화면
 
 ![메인화면](https://github.com/shayeong/homepage/assets/103100102/f9a2c8b1-1a00-403d-b892-3989cb5a56e9)
+![image](https://github.com/shayeong/homepage/assets/103100102/2f329fb2-54b2-4988-b127-12694899c4a0)
+### 메인화면으로 창의 크기를 줄이게 되면 네이베이션 바의 형태가 변화한다.
 
 ## 게시판
 
@@ -19,6 +21,7 @@
 ![투표-2](https://github.com/shayeong/homepage/assets/103100102/4c9e8d78-1f50-485d-b1e9-2cfacb665402)
 
 ## 웹 게임
+
 ![image](https://github.com/shayeong/homepage/assets/103100102/5ca095a8-2b88-4a9f-b8a4-3127dd72cf2b)
 ### 두더지 잡기 이미지를 누르면 두더지 잡기 페이지로 이동한다
 
