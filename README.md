@@ -20,11 +20,15 @@
 ## 웹 게임
 ![image](https://github.com/shayeong/homepage/assets/103100102/5ca095a8-2b88-4a9f-b8a4-3127dd72cf2b)
 ### 두더지 잡기 이미지를 누르면 두더지 잡기 페이지로 이동한다
+
 ![image](https://github.com/shayeong/homepage/assets/103100102/0962d189-b8ce-4211-a972-ef53c7a1ffd6)
 ### 목숨을 표시할 요소를 생성하고 최대 목숨의 수를 3으로 정의한다.
-![image](https://github.com/shayeong/homepage/assets/103100102/8fb490bb-74c6-4255-8345-ba5d0060fa39)
+
+![image](https://github.com/shayeong/homepage/assets/103100102/5f8c7703-1910-48df-b070-cfd130211269)
 ### 폭탄을 누르게 되면 목숨의 수가 0보다 크면 1개씩 감소한다.
-![image](https://github.com/shayeong/homepage/assets/103100102/4b1a5d4f-6e8a-42c7-994d-a8d4aec7a471)
+
+![image](https://github.com/shayeong/homepage/assets/103100102/8ac86380-0e6f-4efe-8894-cf12404f7b03)
 ### 목숨의 수가 0이면 게임을 종료하고 score를 보여준다.
+
 ![image](https://github.com/shayeong/homepage/assets/103100102/2b639f56-7dc2-4f79-9fb6-ab12e30b0a6d)
 ### 60초가 지나면 게임을 종료하고 score를 보여준다.
