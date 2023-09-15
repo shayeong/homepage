@@ -26,9 +26,9 @@
 ## 투표
 
 ![투표-1](https://github.com/shayeong/homepage/assets/103100102/4f511ef1-1352-460c-9a68-425c8f642b8f)
+![image](https://github.com/shayeong/homepage/assets/103100102/14fc00b6-9ba9-4c4a-be0e-48e18e3ecc44)
 ![투표-2](https://github.com/shayeong/homepage/assets/103100102/4c9e8d78-1f50-485d-b1e9-2cfacb665402)
 ![image](https://github.com/shayeong/homepage/assets/103100102/3293d17c-3d8b-45d4-b3d7-4589539558c2)
-![image](https://github.com/shayeong/homepage/assets/103100102/14fc00b6-9ba9-4c4a-be0e-48e18e3ecc44)
 
 ## 웹 게임
 
