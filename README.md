@@ -1,10 +1,10 @@
-## 메인 화면
+## -메인 화면
 
 ![메인화면](https://github.com/shayeong/homepage/assets/103100102/f9a2c8b1-1a00-403d-b892-3989cb5a56e9)
 ![image](https://github.com/shayeong/homepage/assets/103100102/2f329fb2-54b2-4988-b127-12694899c4a0)
 ### 메인화면으로 창의 크기를 줄이게 되면 네이베이션 바의 형태가 변화한다.
 
-## 게시판
+## -게시판
 
 ![게시판 목록](https://github.com/shayeong/homepage/assets/103100102/bbc6659f-a364-445a-82c4-f7df13e99997)
 ![image](https://github.com/shayeong/homepage/assets/103100102/82bf14de-1eed-4fe9-8b58-c87d7e8cf3c4)
@@ -15,7 +15,7 @@
 ![image](https://github.com/shayeong/homepage/assets/103100102/bdefa9df-3499-4abe-bb97-00d90596cf9c)
 ### 답변에 대해서 답변을 달 수 있다.
 
-## 공지사항
+## -공지사항
 
 ![공지사항 목록](https://github.com/shayeong/homepage/assets/103100102/0e64fa69-57aa-4367-a9ff-293582f44993)
 ![image](https://github.com/shayeong/homepage/assets/103100102/8a539511-c502-448b-91f6-6b0baa57a1e2)
@@ -23,7 +23,7 @@
 ### 새로 등록하게 되면 new라고 표시한다.
 
 
-## 투표
+## -투표
 
 ![투표-1](https://github.com/shayeong/homepage/assets/103100102/4f511ef1-1352-460c-9a68-425c8f642b8f)
 ![image](https://github.com/shayeong/homepage/assets/103100102/14fc00b6-9ba9-4c4a-be0e-48e18e3ecc44)
@@ -31,7 +31,7 @@
 ![image](https://github.com/shayeong/homepage/assets/103100102/3293d17c-3d8b-45d4-b3d7-4589539558c2)
 ![image](https://github.com/shayeong/homepage/assets/103100102/76ab3eed-a83c-4e6d-9a09-336a1acc6c09)
 
-## 웹 게임
+## -웹 게임
 
 ![image](https://github.com/shayeong/homepage/assets/103100102/5ca095a8-2b88-4a9f-b8a4-3127dd72cf2b)
 ### 두더지 잡기 이미지를 누르면 두더지 잡기 페이지로 이동한다
