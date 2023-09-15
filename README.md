@@ -10,6 +10,7 @@
 ![image](https://github.com/shayeong/homepage/assets/103100102/82bf14de-1eed-4fe9-8b58-c87d7e8cf3c4)
 ![image](https://github.com/shayeong/homepage/assets/103100102/13e27fb5-1267-4703-9d5a-acf09cbb9d03)
 ![image](https://github.com/shayeong/homepage/assets/103100102/96196091-5c31-49cf-ac92-f7e44b3d92d4)
+### 새로 등록하게 되면 new라고 표시한다.
 
 ## 공지사항
 
