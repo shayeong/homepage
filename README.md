@@ -28,8 +28,11 @@
 ![투표-1](https://github.com/shayeong/homepage/assets/103100102/4f511ef1-1352-460c-9a68-425c8f642b8f)
 ![image](https://github.com/shayeong/homepage/assets/103100102/14fc00b6-9ba9-4c4a-be0e-48e18e3ecc44)
 ![투표-2](https://github.com/shayeong/homepage/assets/103100102/4c9e8d78-1f50-485d-b1e9-2cfacb665402)
-![image](https://github.com/shayeong/homepage/assets/103100102/3293d17c-3d8b-45d4-b3d7-4589539558c2)
+### 투표의 형태를 단일과 복수로 선택해서 만들 수 있다.
 ![image](https://github.com/shayeong/homepage/assets/103100102/76ab3eed-a83c-4e6d-9a09-336a1acc6c09)
+### 투표 기간이 지나면 투표 버튼에 "투표 기간 종료!"라는 메시지가 뜨게 된다.
+![image](https://github.com/shayeong/homepage/assets/103100102/3293d17c-3d8b-45d4-b3d7-4589539558c2)
+### 결과 버튼을 누르면 
 
 ## -웹 게임
 
